@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "timestamp": "2026-01-09T11:22:36.686208",
+    "date": "09/01/2026",
+    "time": "11:22:36",
+    "query": "I need understand what is happening in Venezula actually. Tell me about it"
+  },
+  "subtopics": [
+    "What are the current political dynamics in Venezuela, including the role of the government and the opposition?",
+    "What is the economic situation in Venezuela, including the impact of inflation, oil production, and foreign investment?",
+    "What are the social and humanitarian challenges faced by the Venezuelan population, including migration, healthcare, and living conditions?"
+  ],
+  "web_searches": [
+    {
+      "search_number": 1,
+      "subtopic": "What are the current political dynamics in Venezuela, including the role of the government and the opposition?",
+      "status": "completed",
+      "sources": [
+        {
+          "title": "Venezuelan opposition redefines its strategy with one priority: The return ...",
+          "url": "https://english.elpais.com/international/2026-01-07/venezuelan-opposition-redefines-its-strategy-with-one-priority-the-return-of-its-leaders-in-exile.html",
+          "snippet": "há 2 dias · In Venezuela, most opposition figures have been effectively sidelined for months due to government repression, operating clandestinely or from ..."
+        },
+        {
+          "title": "What Just Happened in Venezuela? And What Comes Next? - CSIS",
+          "url": "https://www.csis.org/analysis/what-just-happened-venezuela-and-what-comes-next",
+          "snippet": "há 4 dias · And it's more than likely going to be a government by the exiled opposition, which is friendly to the United States. And so with an election ..."
+        },
+        {
+          "title": "Venezuela update: geopolitical shockwaves - Allianz Global Investors",
+          "url": "https://www.allianzgi.com/en/insights/outlook-and-commentary/venezuela-update-geopolitical-shockwaves",
+          "snippet": "há 4 dias · We believe US intervention in Venezuela, including Maduro's capture, signals a major geopolitical shift with implications for regional stability ..."
+        }
+      ]
+    },
+    {
+      "search_number": 2,
+      "subtopic": "What is the economic situation in Venezuela, including the impact of inflation, oil production, and foreign investment?",
+      "status": "completed",
+      "sources": [
+        {
+          "title": "Venezuela's economy will be a mess for whoever runs it next",
+          "url": "https://www.cnn.com/2026/01/08/business/venezuela-economic-problems-beyond-oil",
+          "snippet": "Turbulent oil markets, government corruption and years of crippling sanctions have decimated Venezuela's economy, despite the country sitting on one of the largest oil reserves in the world."
+        },
+        {
+          "title": "PDF Venezuela Economic Outlook",
+          "url": "https://www.hklaw.com/-/media/files/insights/publications/2025/07/venezuela-update/0723_english_all.pdf?rev=bde674aade904f039ae98077be32f51f&hash=33FC17105C372A2CE48D58B8BBF49CF8",
+          "snippet": "Particularly notable in this growth is the oil sector, which expanded 18.23 percent, along with the mining sector, with an increase of 13.46 percent. According to the BCV, these results demonstrate the resilience of the Venezuelan economy in the face of \"external aggression\" and the \"trade war\" that, according to the government, threatens a global recession."
+        },
+        {
+          "title": "Inflation, currency woes worsen Venezuela's complex crisis as Maduro ...",
+          "url": "https://apnews.com/article/venezuela-economy-crisis-maduro-inflation-sanctions-dollar-5250770ae0e79fc69122b820ab8ac13e",
+          "snippet": "Inflation , currency woes worsen Venezuela's complex crisis as Maduro declares 'economic emergency' Venezuela is once again facing renewed economic pressure as a new wave of U.S. sanctions and the exit of key oil companies threaten to deepen the country's ongoing crisis."
+        }
+      ]
+    },
+    {
+      "search_number": 3,
+      "subtopic": "What are the social and humanitarian challenges faced by the Venezuelan population, including migration, healthcare, and living conditions?",
+      "status": "completed",
+      "sources": [
+        {
+          "title": "Crisis in Venezuela - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Crisis_in_Venezuela",
+          "snippet": "She said that \"in Venezuela there is no humanitarian crisis\" and that \" Venezuela guarantees access to basic medicines to the most vulnerable groups through distribution policies.\" In the case of malaria, she said that government measures had \"reduced incidence by 50 percent\"."
+        },
+        {
+          "title": "Barriers to Healthcare Access in Venezuela ... - Exploratio Journal",
+          "url": "https://exploratiojournal.com/barriers-to-healthcare-access-in-venezuela-a-qualitative-interview-study-of-patient-experiences/",
+          "snippet": "This research investigates Venezuelan patients’ healthcare challenges and their strategies for managing these obstacles, with particular attention to gender-specific barriers in service accessibility."
+        },
+        {
+          "title": "DHS revokes extending deportation protections for Venezuelans",
+          "url": "https://houstonlanding.org/revoking-temporary-protected-status-extension-could-shatter-the-lives-of-houstons-venezuelan-population/",
+          "snippet": "Venezuela ’s TPS designation. The Biden administration granted Venezuelans TPS in 2021 because of the humanitarian and political crisis there that has led nearly 8 million Venezuelans to flee. Food shortages and electricity outages have become common in the South American country."
+        }
+      ]
+    }
+  ]
+}

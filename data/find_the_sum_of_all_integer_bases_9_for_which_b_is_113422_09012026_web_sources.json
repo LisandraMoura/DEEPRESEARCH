@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "timestamp": "2026-01-09T11:34:22.353745",
+    "date": "09/01/2026",
+    "time": "11:34:22",
+    "query": "Find the sum of all integer bases >9$ for which {b}$ is a divisor of {b}$. I need the exact answer to this problem"
+  },
+  "subtopics": [
+    "What are the integer bases greater than 9 that are perfect squares?",
+    "What are the integer bases greater than 9 that are the square of a prime number?",
+    "What are the integer bases greater than 9 that are the square of a composite number?"
+  ],
+  "web_searches": [
+    {
+      "search_number": 1,
+      "subtopic": "What are the integer bases greater than 9 that are perfect squares?",
+      "status": "completed",
+      "sources": [
+        {
+          "title": "Square number - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Square_number",
+          "snippet": "In mathematics, a square number or perfect square is an integer that is the square of an integer; in other words, it is the product of some integer with ..."
+        },
+        {
+          "title": "How many positive integer divisors of 201^9 are perfect squares or per",
+          "url": "https://gmatclub.com/forum/how-many-positive-integer-divisors-of-201-9-are-perfect-squares-or-per-295767.html",
+          "snippet": "14 de mai. de 2019 · How many positive integer divisors of 201^9 are perfect squares or perfect cubes (or both)? A. 32. B. 36. C. 37. D. 39. E. 41. Show more."
+        },
+        {
+          "title": "How many squares in base 9 consist of only ones - Math Stack Exchange",
+          "url": "https://math.stackexchange.com/questions/522412/how-many-squares-in-base-9-consist-of-only-ones",
+          "snippet": "11 de out. de 2013 · Since 14 is a perfect square, 9n−12 must be a perfect square as well. So, the problem boils down to finding all n such that 9 ... In base 9, find the greatest perfect square of 4 digits. number theory - Perfect square all 9's - Mathematics Stack Exchange Mais resultados de math.stackexchange.com"
+        }
+      ]
+    },
+    {
+      "search_number": 2,
+      "subtopic": "What are the integer bases greater than 9 that are the square of a prime number?",
+      "status": "completed",
+      "sources": [
+        {
+          "title": "Base (mathematics) - Simple English Wikipedia, the free ...",
+          "url": "https://simple.wikipedia.org/wiki/Base_(mathematics)",
+          "snippet": "In mathematics, a base or radix is the amount of digits that a positional system of counting uses to represent numbers. For example, the most common number system used today is the decimal system. Decimal has 10 digits, 0 to 9 , so it is a base 10 system."
+        },
+        {
+          "title": "Integer Bases - University of Surrey",
+          "url": "https://r-knott.surrey.ac.uk/IntegerReps/intreps.html",
+          "snippet": "Aug 20, 2017 · Unusual number bases , including Fibonacci and the irrational Phi bases , factorials and binomial coefficients bases , rational number bases , negative bases , negative \"digits\", with interactive Calculators for all of these."
+        },
+        {
+          "title": "A short introduction to bases - University of Washington",
+          "url": "https://sites.math.washington.edu/~conroy/m301-general/basesPrimer.pdf",
+          "snippet": "To get around this problem, for small bases anyway, some people use capital letters of the alphabet to represent integers greater than 9 : A= 10, B= 11, C= 12, etc."
+        }
+      ]
+    },
+    {
+      "search_number": 3,
+      "subtopic": "What are the integer bases greater than 9 that are the square of a composite number?",
+      "status": "completed",
+      "sources": [
+        {
+          "title": "List of types of numbers - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_types_of_numbers",
+          "snippet": "Every integer greater than one is either prime or composite . Polygonal numbers : These are numbers that can be represented as dots that are arranged in the shape of a regular polygon, including Triangular numbers , Square numbers , Pentagonal numbers , Hexagonal numbers , Heptagonal numbers , Octagonal numbers , Nonagonal numbers , Decagonal numbers ..."
+        },
+        {
+          "title": "Integer Bases - University of Surrey",
+          "url": "https://r-knott.surrey.ac.uk/IntegerReps/intreps.html",
+          "snippet": "Unusual number bases , including Fibonacci and the irrational Phi bases , factorials and binomial coefficients bases , rational number bases , negative bases , negative \"digits\", with interactive Calculators for all of these."
+        },
+        {
+          "title": "Composite Number | Research Starters | EBSCO Research",
+          "url": "https://www.ebsco.com/research-starters/science/composite-number",
+          "snippet": "A composite number is defined as a positive integer greater than 1 that is not prime, meaning it has factors other than 1 and itself. For example, the integer 6 is composite because it can be factored as 1 × 6 and also as 2 × 3. In contrast, prime numbers are those that can only be expressed as a product of 1 and themselves. Numbers like 4 and 9 are also composite , being factored as 2 × 2 ..."
+        }
+      ]
+    }
+  ]
+}
